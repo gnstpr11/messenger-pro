@@ -3,6 +3,10 @@
     display: flex;
     justify-content: space-between;
     padding:5px 3px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .status-bar__column:first-child span{
