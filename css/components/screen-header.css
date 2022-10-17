@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: var(--horizontal-space);
+    margin-bottom: 15px;
 }
 
 .screen-header__title{
@@ -12,4 +13,20 @@
 
 .screen-header__icons span{
     margin-left: 25px;
+}
+
+.nav__notification__sm__find{
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: tomato;
+    font-weight: 600;
+    margin-left: 20px;
+    position: fixed;
+    right: 20px;
+    top: 50px;
 }
