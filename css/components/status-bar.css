@@ -19,7 +19,7 @@
 }
 
 .status-bar__column:last-child{
-    diplsay: flex;
+    display: flex;
     justify-content: flex-end;
     align-items: center;
 }
